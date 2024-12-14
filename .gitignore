@@ -1,0 +1,65 @@
+# System plików
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Oo]bj/
+[Bb]in/
+.vscode/
+.vs/
+.idea/
+
+# Pliki konfiguracji lokalnej
+*.user
+*.rsuser
+*.suo
+*.sln.docstates
+
+# Pliki tymczasowe
+*.tmp
+*.log
+*.obj
+*.exe
+*.dll
+*.pdb
+*.cache
+*.pyc
+*.class
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Pliki builda i zależności
+project.lock.json
+project.fragment.lock.json
+*.pidb
+*.mdb
+*.opendb
+*.VC.db
+*.idb
+*.tlog
+
+# Pliki NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Pliki logów i śmieciowe
+*.log
+*.bak
+*.swp
+*.out
+*.rej
+*.sublime-workspace
+
+# Pliki IDE (Visual Studio)
+*.suo
+*.ntvs*
+*.njsproj
+*.VC.db
+*.VC.VC.opendb
